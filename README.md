@@ -2,7 +2,7 @@
 
 Ocaml project
 
-## Contents
+## Content
 
 ### Descrizione: Progettazione e sviluppo di un interprete in OCaml
 Il progetto prevede la progettazione e realizzazione di una semplice estensione del linguaggio didattico
